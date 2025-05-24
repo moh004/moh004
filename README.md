@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=moh004&color=green)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moh004&label=Profile%20views&color=0e75b6&style=flat" alt="uttejterlapu" /> </p>
+
 - 👋 Hi, I’m moh
 - 🎓 I'm currently a student at Azad university
 - 👀 I’m interested in 🏓ping pong🏓
