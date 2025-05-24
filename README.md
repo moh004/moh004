@@ -13,11 +13,13 @@
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moh004&layout=compact&theme=radical)
 
+### Styling & Testing
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
+
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moh004&theme=radical)
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=moh004&color=blue)
 
 ## 🛠️ Tech Stack  
 <p align="left">  
